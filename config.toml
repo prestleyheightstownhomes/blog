@@ -1,3 +1,56 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.prestleyheightstownhomes.org"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Prestley Heights Townhomes HOA Blog"
+theme = "pickles"
+copyright = " "
+publishDir = "docs"
+
+[params]
+  paginate = 5
+  # custom_css = ["/css/custom.css"]
+  facebook = "groups/1848434975407906"
+  # author = "Your Name"
+  # authorwebsite = "example.com"
+  # avatar = "/path/to/avatar"
+  # contact = "Your contact link (ex. mailto:foo@example.com)"
+  # bio = "Your short bio"
+  # Short subtitle/tagline. This is displayed in the header.
+  # subtitle = "Short subtitle"
+  # Logo image. This is displayed ogp image.
+  # logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
+
+[[menu.main]]
+    name = "Blog Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Portal"
+    url = "https://portal.sylvesterassociates.com/"
+    weight = 2
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
