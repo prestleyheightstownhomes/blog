@@ -1,26 +1,8 @@
 ---
-author: "Dave Kerr"
-date: 2020-06-11
-linktitle: Hiding the Date
-title: Hiding the Date
-weight: 10
+author: "Benn Linger"
+date: 2020-12-22
+linktitle: Blog Launched
+title: Blog Launched
 ---
 
-
-## Introduction
-
-Hiding the date in a page or post is easy! Just set `hideDate` to `true` in your front matter.
-
-As an example, the front matter for this page is:
-
-```
----
-date: 2020-06-11
-linktitle: Hiding the Date
-title: Hiding the Date
-weight: 10
-hideDate: true
----
-```
-
-Piece of cake!
+I've set up this simple blog as a place where news related to the Homeowners' Association can be shared. Hopefully this should help with keeping the community informed of various happenings.

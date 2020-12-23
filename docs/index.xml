@@ -7,83 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://prestleyheightstownhomes.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://prestleyheightstownhomes.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hiding the Date</title>
+      <title>Board of Directors 2020-21</title>
+      <link>https://prestleyheightstownhomes.github.io/blog/posts/board-members-2020/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://prestleyheightstownhomes.github.io/blog/posts/board-members-2020/</guid>
+      <description>Per the correspondence sent out earlier this month, we have a new member of our board of directors. The list of board members for this term is now:
+ Matt Condio Mary Duffy Geoff Kolton Benn Linger Robb Williamson (newly elected)  The board also met earlier this month and made the following appointments:
+ President: Benn Linger Vice President: Robb Williamson Secretary: Mary Duffy  Despite this year&amp;rsquo;s delayed annual meeting correspondence due to COVID-19, the board intends to resume the normal annual meeting schedule in the March - May timeframe.</description>
+    </item>
+    
+    <item>
+      <title>Blog Launched</title>
       <link>https://prestleyheightstownhomes.github.io/blog/posts/blog-launch/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://prestleyheightstownhomes.github.io/blog/posts/blog-launch/</guid>
-      <description>Introduction Hiding the date in a page or post is easy! Just set hideDate to true in your front matter.
-As an example, the front matter for this page is:
---- date: 2020-06-11 linktitle: Hiding the Date title: Hiding the Date weight: 10 hideDate: true --- Piece of cake!</description>
-    </item>
-    
-    <item>
-      <title>Hiding the Date</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/posts/hiding-the-date/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/posts/hiding-the-date/</guid>
-      <description>Introduction Hiding the date in a page or post is easy! Just set hideDate to true in your front matter.
-As an example, the front matter for this page is:
---- date: 2020-06-11 linktitle: Hiding the Date title: Hiding the Date weight: 10 hideDate: true --- Piece of cake!</description>
-    </item>
-    
-    <item>
-      <title>Image Zoom Sample</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/posts/image-zoom-sample/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/posts/image-zoom-sample/</guid>
-      <description>This theme is magnified like the image of Medium.
-The jQuery plugin called Zoom.js is used.
-No Zoom.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <description>I&amp;rsquo;ve set up this simple blog as a place where news related to the Homeowners&#39; Association can be shared. Hopefully this should help with keeping the community informed of various happenings.</description>
     </item>
     
   </channel>

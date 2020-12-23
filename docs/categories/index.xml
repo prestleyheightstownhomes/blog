@@ -6,25 +6,6 @@
     <description>Recent content in Categories on Prestley Heights Townhomes HOA Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright> </copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://prestleyheightstownhomes.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://prestleyheightstownhomes.github.io/blog/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://prestleyheightstownhomes.github.io/blog/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <copyright> </copyright><atom:link href="https://prestleyheightstownhomes.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
