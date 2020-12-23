@@ -8,7 +8,7 @@ publishDir = "docs"
 [params]
   paginate = 5
   facebook = "groups/1848434975407906"
-  favicon = "/favicon.ico"
+  favicon = "favicon.ico"
 
 [[menu.main]]
     name = "Blog Home"
