@@ -4,6 +4,7 @@ date: 2021-01-22
 linktitle: Dog Waste Station Available
 title: Dog Waste Station Available
 thumbnail: ./dog-waste-station-202101.jpg
+description: The dog waste station has now been installed and is available for use.
 ---
 
 The dog waste station has now been installed and is available for use.

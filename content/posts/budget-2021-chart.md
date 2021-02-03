@@ -3,6 +3,7 @@ author: "Benn Linger"
 date: 2021-01-01
 linktitle: Budget 2021 Chart
 title: Budget 2021 Chart
+description: A pie chart showing where your monthly dues are spent and saved.
 ---
 
 I put together a spreadsheet and pie chart to help show how much of our $75 monthly dues go to what expenses for the homeowners' association. The data here is based on our [2021 budget](../../budget-2021-final.pdf).

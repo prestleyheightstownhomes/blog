@@ -3,6 +3,7 @@ author: "Benn Linger"
 date: 2021-01-14
 linktitle: Dog Waste Station Trial Run
 title: Dog Waste Station Trial Run
+description: The board has approved a trial run of a revival of the dog waste station previously installed in the neighborhood.
 ---
 
 The board has approved a trial run of a revival of the dog waste station previously installed in the neighborhood. **I plan to install it over the next few days in roughly the same place as it was before.** Dog waste stations are commonly found in nicer managed communities, so it's our expectation that this is one small step we can take to help bolster the home values for all HOA members.
