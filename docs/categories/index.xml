@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Prestley Heights Townhomes HOA Blog</title>
-    <link>https://prestleyheightstownhomes.github.io/blog/categories/</link>
+    <link>https://blog.prestleyheightstownhomes.org/categories/</link>
     <description>Recent content in Categories on Prestley Heights Townhomes HOA Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright> </copyright><atom:link href="https://prestleyheightstownhomes.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright> </copyright><atom:link href="https://blog.prestleyheightstownhomes.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
