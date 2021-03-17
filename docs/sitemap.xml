@@ -1,58 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blog.prestleyheightstownhomes.org/posts/bulb-letters-spring-2021/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.prestleyheightstownhomes.org/posts/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.prestleyheightstownhomes.org/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/hillside-structural-assessments/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.prestleyheightstownhomes.org/posts/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.prestleyheightstownhomes.org/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/dog-waste-station-available/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/dog-waste-station-trial-location-update/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/dog-waste-station-trial/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/budget-2021-chart/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/board-members-2020/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/posts/blog-launch/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.prestleyheightstownhomes.org/tags/</loc>
   </url>
-  
 </urlset>
