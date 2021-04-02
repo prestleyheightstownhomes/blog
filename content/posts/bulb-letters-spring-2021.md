@@ -4,7 +4,7 @@ date: 2021-03-17
 linktitle: Bulb Letters - Spring 2021
 title: Bulb Letters - Spring 2021
 thumbnail: ./lamp-post.jpg
-description: Letters are being sent with reminders to replace burnt-out bulbs
+description: Letters are being sent with reminders to replace burnt-out bulbs.
 ---
 
 Reminder letters will be sent out shortly to homeowners with lamp posts that have not been lit up at night.
