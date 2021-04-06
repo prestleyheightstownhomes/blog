@@ -1,12 +1,12 @@
 ---
 author: "Benn Linger"
-date: 2021-04-05
+date: 2021-04-06
 linktitle: Board Seat Nominations - Spring 2021
 title: Board Seat Nominations - Spring 2021
 description: Two board seats are up for election this year.
 ---
 
-Each year, one or two seats on our board of directors expire and are up for election again. There are five seats total with each being for three year terms with expirations staggered by year. This year, there are two seats up for election.
+Each year, one or two seats on our board of directors expire and are up for election again. There are five seats total with each being for three year terms. The expirations are staggered by year. This year, there are two seats up for election.
 
  * Matt Condio (elected 2019, expires 2022)
  * **Mary Duffy** \* (elected 2018, expires 2021)
