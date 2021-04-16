@@ -27,7 +27,7 @@ Accompanying documents are available here:
  * [2020 - Letter to Residents](../../letter-to-residents-2020.pdf)
  * [2020 - Balance Sheet](../../balance-sheet-2020.pdf)
  * [2020 - Statement of Revenues and Expenses](../../statement-of-revenues-and-expenses-2020.pdf)
- * [2021 - Budget](../../budget-2021-final.pdf)
+ * [2021 - Budget](../../budget-2021-final.pdf) (and also see the [chart here](../budget-2021-chart/))
  * [Voting Proxy Form](../../voting-proxy-form.pdf)
 
 If you’d like to download the app ahead of time, we’ll be using Zoom. It’s available on their website at [zoom.us](http://zoom.us) and on mobile app stores. Call-in phone numbers will be available, as well.
