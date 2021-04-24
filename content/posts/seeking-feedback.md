@@ -4,7 +4,7 @@ date: 2021-04-09
 linktitle: Seeking your feedback
 title: Seeking Your Feedback!
 description: Got any feedback or suggestions? Send them our way.
-thumbnail: ./house-fronts-angle-2020-07-01.jpg
+thumbnail: https://storage.googleapis.com/prestley-heights-townhomes/house-fronts-angle-2020-07-01.jpg
 ---
 
 Feedback is very important to help ensure we're focusing on the right priorities and goals for the community.

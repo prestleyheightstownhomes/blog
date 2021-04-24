@@ -3,7 +3,7 @@ author: "Benn Linger"
 date: 2021-02-09
 linktitle: Hillside Structural Assessments
 title: Hillside Structural Assessments
-thumbnail: ./hillside-map-2021.jpg
+thumbnail: https://storage.googleapis.com/prestley-heights-townhomes/hillside-map-2021.jpg
 description: The structural health of our hillside has been assessed by qualified professionals.
 ---
 
@@ -13,7 +13,7 @@ I'm pleased to report we've now had two separate firms make on-site visits to as
 
 The firms contacted include [Civil & Engineering Consultants](http://www.cecinc.com) and [KU Resources](https://kuresources.com/).
 
-![Map showing hillside](../../hillside-map-2021.jpg)
+![Map showing hillside](https://storage.googleapis.com/prestley-heights-townhomes/hillside-map-2021.jpg)
 
 *Picture of our hillside outlined on a portion of our neighborhood map.*
 

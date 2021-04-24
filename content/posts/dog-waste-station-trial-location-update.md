@@ -8,7 +8,7 @@ description: The location for the trial run of the dog waste station has been re
 
 In response to feedback, the board has agreed to revise the location of the dog waste station for [the trial run](../dog-waste-station-trial/) announced previously. Its new location will be about sixty-five feet further from the mailboxes along the same sidewalk.
 
-![Dog Waste Station Location Map](../../dog-waste-station-location-202101.jpg)
+![Dog Waste Station Location Map](https://storage.googleapis.com/prestley-heights-townhomes/dog-waste-station-location-202101.jpg)
 
 *The green X represents the previous location. The red X is the new location.*
 

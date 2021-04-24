@@ -4,7 +4,7 @@ date: 2021-04-20
 linktitle: Spring 2021 Updates
 title: Spring 2021 Updates
 description: Updates on the mailbox power project, spring cleanup, and the annual meeting.
-thumbnail: ./incomplete-meter-2021.jpg
+thumbnail: https://storage.googleapis.com/prestley-heights-townhomes/incomplete-meter-2021.jpg
 ---
 
 A few quick updates to our homeowners' association members:
@@ -13,7 +13,7 @@ A few quick updates to our homeowners' association members:
 
 The conduit along the hillside is buried and the post for the meter and panel is up, so we're hopeful the project will be completed without further delays after the boring is complete.
 
-![Meter Post](../../incomplete-meter-2021.jpg)
+![Meter Post](https://storage.googleapis.com/prestley-heights-townhomes/incomplete-meter-2021.jpg)
 
 **Our annual spring cleanup is scheduled for next week.** This includes tasks like the edging of plant beds and mulching of areas in the front of units.
 

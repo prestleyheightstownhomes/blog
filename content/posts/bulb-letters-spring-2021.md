@@ -3,7 +3,7 @@ author: "Benn Linger"
 date: 2021-03-17
 linktitle: Bulb Letters - Spring 2021
 title: Bulb Letters - Spring 2021
-thumbnail: ./lamp-post.jpg
+thumbnail: https://storage.googleapis.com/prestley-heights-townhomes/lamp-post.jpg
 description: Letters are being sent with reminders to replace burnt-out bulbs.
 ---
 
@@ -11,7 +11,7 @@ Reminder letters will be sent out shortly to homeowners with lamp posts that hav
 
 As a friendly reminder: the lamp posts in front of individual houses are the primary source of light made available to those walking after dark in the neighborhood. Homeowners are responsible for ensuring they remain functional and with working bulbs for the safety and consistency of our community.
 
-![Lamp Post](../../lamp-post.jpg)
+![Lamp Post](https://storage.googleapis.com/prestley-heights-townhomes/lamp-post.jpg)
 
 For those purchasing:
 

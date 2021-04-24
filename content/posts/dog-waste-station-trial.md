@@ -14,7 +14,7 @@ That said, it was removed over concerns it was being abused (potentially by non-
 
 This initial period will not include the bag dispenser.
 
-![Old Dog Waste Station](../../dog-waste-station-2016.jpg)
+![Old Dog Waste Station](https://storage.googleapis.com/prestley-heights-townhomes/dog-waste-station-2016.jpg)
 
 *Picture of old dog waste station via Google StreetView. July 2016.*
 
