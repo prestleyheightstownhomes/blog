@@ -15,7 +15,7 @@ The meeting is scheduled for **Thursday, April 29 2021 at 7pm**.
 
 The board of directors has decided to hold the meeting *virtually*. This should allow for as many association members to comfortably attend as possible.
 
-**The link to join the meeting will be posted here on this web page. Please check back later before the meeting.**
+**The link to join the meeting will be posted here on this web page at 5pm today.**
 
 The agenda is available here:
 
