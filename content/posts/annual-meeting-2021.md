@@ -15,16 +15,7 @@ The meeting is scheduled for **Thursday, April 29 2021 at 7pm**.
 
 The board of directors has decided to hold the meeting *virtually*. This should allow for as many association members to comfortably attend as possible.
 
-**The link to join the meeting is here:**
-
-**[https://zoom.us/j/97775622043?pwd=R0t4cjlha0hFWlQ4dnU5RHAxZUhWZz09](https://zoom.us/j/97775622043?pwd=R0t4cjlha0hFWlQ4dnU5RHAxZUhWZz09)**
-
-Prefer to call in instead?
-
- * Call [(646) 558-8656](tel:6465588656)
- * Meeting ID: 977 7562 2043
- * Passcode: 009202
-
+**The meeting ended at 8pm. An audio recording of the meeting is available [here](https://storage.googleapis.com/prestley-heights-townhomes/annual-meeting-2021-audio.m4a).**
 
 The agenda is available here:
 
@@ -39,4 +30,3 @@ Accompanying documents are available here:
  * [2021 - Budget](https://storage.googleapis.com/prestley-heights-townhomes/budget-2021-final.pdf) (and also see the [chart here](../budget-2021-chart/))
  * [Voting Proxy Form](https://storage.googleapis.com/prestley-heights-townhomes/voting-proxy-form.pdf)
 
-If you’d like to download the app ahead of time, we’ll be using Zoom. It’s available on their website at [zoom.us](http://zoom.us) and on mobile app stores. 
