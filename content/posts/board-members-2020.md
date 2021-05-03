@@ -4,9 +4,6 @@ date: 2020-12-23
 linktitle: Board of Directors 2020-21
 title: Board of Directors 2020-21
 description: The board of directors for 2020-21 and titles.
-aliases:
-  - /board
-  - /board/
 ---
 
 Per the correspondence sent out earlier this month, we have a new member of our board of directors. The list of board members for this term is now:
