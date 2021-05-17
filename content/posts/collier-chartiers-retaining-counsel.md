@@ -4,7 +4,7 @@ date: 2021-05-17
 linktitle: Retaining counsel for research
 title: Retaining counsel for research
 description: The board of directors plans to retain a law firm to investigate the feasibility of a township / school district transition.
-thumbnail: https://storage.googleapis.com/prestley-heights-townhomes/house-fronts-angle-2020-07-01.jpg
+thumbnail: https://storage.googleapis.com/prestley-heights-townhomes/collier-carnegie-map-20210517.jpg
 ---
 
 Dear homeowner:
