@@ -9,12 +9,15 @@ aliases:
   - /board/
 ---
 
-Per the announcement made during the annual meeting last week, we have a new member of our board of directors. The list of board members for this term is now:
+*Revised May 20, 2021.*
+
+Per the announcement made during the annual meeting, we have a newly elected member of our board of directors. Likewise, an appointment was made to fill the seat vacated by a prior board member. The list of board members for this term is now:
 
  * Matt Condio
  * Brian Finn (newly elected)
  * Benn Linger
  * Robb Williamson
+ * Max Nogay (board appointed)
 
 The board has not yet met to choose officers / titles.
 
@@ -28,4 +31,4 @@ Brian would like to share the following message:
 
 > Finally, I would just like to leave you with this thought -- a little common courtesy goes a long way when it comes to avoiding conflict within any community.  Please consider what effect your actions (or inaction) may have on your neighbors.
 
-A big "thank you" goes out to Brian for volunteering!
+A big "thank you" goes out to Brian and Max for volunteering!
