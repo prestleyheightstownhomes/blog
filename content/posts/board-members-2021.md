@@ -9,17 +9,15 @@ aliases:
   - /board/
 ---
 
-*Revised May 20, 2021.*
+*Revised May 28, 2021.*
 
-Per the announcement made during the annual meeting, we have a newly elected member of our board of directors. Likewise, an appointment was made to fill the seat vacated by a prior board member. The list of board members for this term is now:
+Per the announcement made during the annual meeting, we have a newly elected member of our board of directors. Likewise, an appointment was made to fill the seat vacated by a prior board member, and titles have been determined. The list of board members for this term is now:
 
- * Matt Condio
- * Brian Finn (newly elected)
- * Benn Linger
+ * Matt Condio - Vice President
+ * Brian Finn - Secretary (newly elected)
+ * Benn Linger - President
  * Robb Williamson
  * Max Nogay (board appointed)
-
-The board has not yet met to choose officers / titles.
 
 Brian would like to share the following message:
 
