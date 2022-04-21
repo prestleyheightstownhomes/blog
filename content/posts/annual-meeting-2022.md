@@ -29,6 +29,6 @@ Additional resources:
  * [Sample Mailbox Shelter Photo](https://storage.googleapis.com/prestley-heights-townhomes/sample-mailbox-shelter-2022.jpg)
  * [Aerial Photo of Neighborhood with House Numbers](https://storage.googleapis.com/prestley-heights-townhomes/aerial-stitched-2021-06-14-numbers.jpg)
 
-The invitation is extended to all residents in our Prestley Heights Townhomes. I'll be creating a meeting agenda, so if there's anything in particular you'd like to discuss, please send me an e-mail ([benn@prestleyheightstownhomes.org](mailto:benn@prestleyheightstownhomes.org)) and I'll make sure it gets added. We'll also have a slot available for open questions and answers.
+The invitation is extended to all residents in our Prestley Heights Townhomes.
 
 And as always, certainly feel free to send us any feedback you have [even anonymously, if you prefer](/feedback).
