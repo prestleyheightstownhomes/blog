@@ -32,3 +32,5 @@ Additional resources:
 The invitation is extended to all residents in our Prestley Heights Townhomes.
 
 And as always, certainly feel free to send us any feedback you have [even anonymously, if you prefer](/feedback).
+
+**POST-MEETING UPDATE:** The meeting's minutes are available [here](https://storage.googleapis.com/prestley-heights-townhomes/annual-meeting-minutes-2022.pdf).

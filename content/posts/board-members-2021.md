@@ -4,9 +4,6 @@ date: 2021-05-03
 linktitle: Board of Directors 2021-22
 title: Board of Directors 2021-22
 description: The board of directors for the 2021-22 term.
-aliases:
-  - /board
-  - /board/
 ---
 
 *Revised May 28, 2021.*
